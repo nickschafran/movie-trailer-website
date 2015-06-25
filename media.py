@@ -7,9 +7,7 @@ class Movie():
 		"""
 		self.title makes title an instance variable
 		"""
-		self.title =  movie_title
+		self.title = movie_title
 		self.storyline = movie_storyline
 		self.poster_image_url = poster_image
 		self.trailer_youtube_url = trailer_youtube
-
-
