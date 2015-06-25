@@ -7,7 +7,7 @@ end_of_the_tour = media.Movie(
 	"In 1996, immediately after the publication of one his best known and\
 	hugely successful novels, Infinite Jest, David Foster Wallace goes on\
 	a five day touring interview with Rolling Stone reporter and writer\
-	David Lipsky"),
+	David Lipsky",
 	"http://ia.media-imdb.com/images/M/MV5BMTUwODU3NjQxNF5BMl5BanBnXkFtZTgwODE2NTE4NTE@._V1__SX687_SY726_.jpg",
 	"https://www.youtube.com/watch?v=DBk1Mrb4RyM")
 
@@ -49,7 +49,7 @@ the_martian = media.Movie(
 	"During a manned mission to Mars, Astronaut Mark Watney is presumed \
 	dead after a fierce storm and left behind by his crew. With only meager\
 	supplies, he must draw upon his ingenuity, wit and spirit to subsist and\
-	find a way to signal to Earth that he is alive."),
+	find a way to signal to Earth that he is alive.",
 	"http://ia.media-imdb.com/images/M/MV5BMTcwMjI2NzM2MF5BMl5BanBnXkFtZTgwNDkyNTI5NTE@._V1__SX687_SY726_.jpg",
 	"https://www.youtube.com/watch?v=lQqhfq87FgY")
 
