@@ -4,4 +4,4 @@ This repository contains python code to build a website which displays movie tit
 ##Files Contained:
 * entertainment_center.py
 * media.py
-* fresh_tomatoes.py 
+* fresh_tomatoes.py
